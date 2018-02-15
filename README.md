@@ -1,2 +1,2 @@
-# Group-Chatting
-Without using database.
+# Group-Chatting using c
+Without using sql database.
